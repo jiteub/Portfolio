@@ -3,7 +3,7 @@ html, body{
     padding: 0;
 }
 .home{
-    background-image: url("background.jpg");
+    background-image: url("sombre.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -43,4 +43,14 @@ html, body{
 .footer{
     display: flex;
     justify-content: center;
+}
+
+.container h1{
+
+    color: white;
+}
+
+.pro h4
+{
+    color: white;
 }
